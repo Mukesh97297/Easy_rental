@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="29.792" y1="17.364" x2="5.833" y2="17.778">
+			<stop offset="0" stop-color="#7985f3"  />
+			<stop offset="1" stop-color="#7967f3"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { fill: url(#grd1) } 
+	</style>
+	<g id="Web 1920 – 7">
+		<g id="task-24px">
+			<g id="Group 326">
+				<path id="Path 317" class="shp0" d="M1 1L30 1L30 30L1 30L1 1Z" />
+			</g>
+			<g id="Group 327">
+				<path id="Path 318" fill-rule="evenodd" class="shp1" d="M25.17 11.67L25.17 25.17C25.17 26.5 24.08 27.58 22.75 27.58L8.24 27.58C6.91 27.58 5.83 26.5 5.83 25.17L5.84 5.83C5.84 4.5 6.92 3.42 8.25 3.42L16.91 3.42C17.55 3.42 18.17 3.67 18.62 4.12L24.45 9.95C24.91 10.41 25.17 11.03 25.17 11.67ZM15.06 21.88L20.19 16.76C20.66 16.29 20.66 15.52 20.19 15.05C19.72 14.58 18.96 14.58 18.48 15.05L14.21 19.33L12.5 17.63C12.03 17.16 11.27 17.16 10.8 17.63C10.33 18.1 10.33 18.86 10.8 19.33L13.36 21.89C13.83 22.36 14.6 22.36 15.06 21.88ZM23.35 11.87L16.71 5.23L16.71 10.67C16.71 11.33 17.25 11.87 17.92 11.87L23.35 11.87Z" />
+			</g>
+		</g>
+	</g>
+</svg>

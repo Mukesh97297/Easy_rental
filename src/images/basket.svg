@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 26" width="30" height="26">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="34.406" y1="18.033" x2="0.24" y2="17.213">
+			<stop offset="0" stop-color="#7985f3"  />
+			<stop offset="1" stop-color="#7967f3"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Web 1920 – 7">
+		<g id="shopping_basket-24px">
+			<g id="Group 324">
+				<path id="Path 316" fill-rule="evenodd" class="shp0" d="M27.3 9.97C28.11 9.97 28.7 10.74 28.48 11.52L25.11 23.82C24.97 24.36 24.48 24.73 23.93 24.73L6.09 24.73C5.54 24.73 5.06 24.36 4.91 23.83L1.52 11.53C1.3 10.74 1.89 9.97 2.7 9.97L8.57 9.97L13.97 1.9C14.45 1.18 15.52 1.18 16.01 1.9L21.41 9.97L27.3 9.97ZM11.53 9.97L18.44 9.97L14.99 4.79L11.53 9.97ZM17.46 17.35C17.46 16 16.35 14.89 15 14.89C13.65 14.89 12.54 16 12.54 17.35C12.54 18.7 13.65 19.81 15 19.81C16.35 19.81 17.46 18.7 17.46 17.35Z" />
+			</g>
+		</g>
+	</g>
+</svg>

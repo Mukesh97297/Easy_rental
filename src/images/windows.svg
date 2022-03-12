@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Web 1920 – 3">
+		<g id="Group 385">
+			<path id="Path 338" class="shp0" d="M1.24 4.23L8.38 3.26L8.38 10.13L1.25 10.17L1.24 4.23L1.24 4.23ZM8.37 10.93L8.38 17.81L1.25 16.83L1.25 10.88L8.37 10.93L8.37 10.93ZM9.24 3.13L18.69 1.75L18.69 10.05L9.24 10.12L9.24 3.13L9.24 3.13ZM18.69 10.99L18.69 19.25L9.24 17.92L9.22 10.98L18.69 10.99Z" />
+		</g>
+	</g>
+</svg>

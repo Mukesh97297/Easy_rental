@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 358 727" width="358" height="727">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="522.339" y1="60.598" x2="184.217" y2="623.328">
+			<stop offset="0" stop-color="#7985f3"  />
+			<stop offset="1" stop-color="#7967f3"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Web 1920 – 1">
+		<path id="Rectangle 3" class="shp0" d="M362.69 -35.33L681.99 156.52C705.69 170.76 713.33 201.43 699.09 225.13L412.47 702.15C398.23 725.85 367.57 733.49 343.86 719.25L24.57 527.4C0.87 513.16 -6.78 482.49 7.46 458.79L294.08 -18.22C308.32 -41.92 338.99 -49.57 362.69 -35.33Z" />
+	</g>
+</svg>
